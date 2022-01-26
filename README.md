@@ -35,6 +35,8 @@ Se recomienda comenzar por este Xtractor para tener la instalación adecuada par
 
 Esta versión de la herramienta es exclusiva para la extracción de tablas del Censo y Planificación de hospitales de 1959.
 
+En el siguiente enlace se encuentra el Censo y Planificación de hospitales de 1959: https://drive.google.com/file/d/15EFbzDvc8BgYMi1zHzNbatozrkC_sAYT/view?usp=sharing
+
 **Xtractor EHM 1970**
 
 Está versión de la herramienta es exclusiva para la extracción de tablas de las Estadísticas Históricas de México de 1970.
