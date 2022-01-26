@@ -10,12 +10,12 @@ https://drive.google.com/file/d/1IRNFwpq8jTKwjv4e9d0BNQ-TGOygRF7v/view?usp=shari
 
 Para poder utilizar la versión de Python es necesario tener los siguientes paquetes con sus respectivas versiones:
 
-Openpyxl 3.0.3
-TK-tools 0.12.0
-PyMuPDF 1.17.3
-opencv-python 4.3.0.36
-pytesseract 0.3.4
-Pillow 7.2.0
+Openpyxl 3.0.3 <br />
+TK-tools 0.12.0 <br />
+PyMuPDF 1.17.3 <br />
+opencv-python 4.3.0.36 <br />
+pytesseract 0.3.4 <br />
+Pillow 7.2.0 <br />
 
 Y de preferencia una versión de Python igual o superior a 3.6.
 
