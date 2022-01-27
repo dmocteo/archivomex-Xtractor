@@ -137,3 +137,35 @@ Para el entrenamiento es necesario organizar las imagenes del dataset. Para esto
 Posteriormente se debe de utilizar la función "CNN" para crear la red neuronal.
 
 Es importante actualizar las rutas que se utilizan.
+
+Cuando se finaliza el entrenamiento se generará un archivo con la terminación "h5", esta es la red obtenida.
+
+**Xtractor EHM 1970**
+
+Para el uso de este Xtractor es necesario utilizar la red generada previamente, ya que esta se encarga de la clasificación de los números dentro de la imagen.
+
+El funcionamiento es el siguiente:
+
+1. Correr el script Xtractor CNN.py. La siguiente ventana deberá de aparecer en la pantalla.
+
+![image](https://user-images.githubusercontent.com/42630580/151281571-63fd0eea-84dc-49c5-a72a-5a227fdbf4b0.png)
+
+2. Seleccionar el anuario estadístico, indicar el número de la página a procesar y dar click en procesar. En este primer paso se desplegará una imagen con las filas encontradas. Si las filas indicadas no aparecen se debe de decrementar el valor de sensibilidad, en caso contrario, si aparecen filas que no corresponden y obstruyen las indicadas, se decrementa el valor.
+
+Para este ejemplo se utilizó el archivo "702825140564_1.pdf" con la página 21.
+
+![image](https://user-images.githubusercontent.com/42630580/151281849-62bf62fa-afad-41a5-b70b-deb29b5e40b0.png)
+
+![image](https://user-images.githubusercontent.com/42630580/151281948-1b21cede-a0c1-43b6-8289-0e0536f81682.png)
+
+3. Cerrar la imagen y el mensaje de completado. Del lado derecho del Xtractor especificar el índice donde comienzan los datos de la tabla y el índice donde termina, y dar click en procesar.
+
+![image](https://user-images.githubusercontent.com/42630580/151282171-38f9786a-cc2b-42e8-a17f-6a81163dbd2f.png)
+
+![image](https://user-images.githubusercontent.com/42630580/151282244-d357c97d-a710-455d-9a00-2dcc96998c88.png)
+
+4. Esperar a que el mensaje de completado aparezca en pantalla. El archivo generado se encontrará en la misma carpeta donde se encuentre el script.
+
+![image](https://user-images.githubusercontent.com/42630580/151282321-bb1a773e-eb7d-4da8-b75f-7326b5c7b422.png)
+
+*Esta versión se encuentra en fase de experimentación. Aún se necesita refinar el procesamiento de la imagen y segmentación.*
