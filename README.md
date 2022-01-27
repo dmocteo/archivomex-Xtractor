@@ -156,11 +156,9 @@ Para este ejemplo se utilizó el archivo "702825140564_1.pdf" con la página 28.
 
 ![image](https://user-images.githubusercontent.com/42630580/151282966-e8367f2d-0535-414e-b7a5-fc5a3c26fa6e.png)
 
-![image](https://user-images.githubusercontent.com/42630580/151281948-1b21cede-a0c1-43b6-8289-0e0536f81682.png)
+![image](https://user-images.githubusercontent.com/42630580/151282805-b73424c4-826b-4ee2-bfc2-4978575da721.png)
 
 3. Cerrar la imagen y el mensaje de completado. Del lado derecho del Xtractor especificar el índice donde comienzan los datos de la tabla y el índice donde termina, y dar click en procesar.
-
-![image](https://user-images.githubusercontent.com/42630580/151282805-b73424c4-826b-4ee2-bfc2-4978575da721.png)
 
 ![image](https://user-images.githubusercontent.com/42630580/151282839-ddb413b9-6147-4651-a996-8fc203462ee1.png)
 
