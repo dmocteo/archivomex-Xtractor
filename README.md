@@ -17,13 +17,14 @@ opencv-python 4.3.0.36 <br />
 pytesseract 0.3.4 <br />
 Pillow 7.2.0 <br />
 
-Y de preferencia una versión de Python igual o superior a 3.6.
+Se puede utilizar el archivo librerias.py ubicado en cualquiera de las subcarpetas para instalar los paquetes.
 
-Es necesario hacer la instalación de Tesseract-OCR para el correcto funcionamiento de la herramienta.
+Es necesario instalar una versión de Python igual o superior a 3.6.
+
+Es necesario hacer la instalación de Tesseract-OCR para el correcto funcionamiento de la herramienta. La ubicación de Tesseract-OCR debe de ser la misma en la que se encuentra el archivo .py del Xtractor que se esté utilizando o se deben de actualizar las rutas con la referencia correcta.
 
 Para más información sobre la primera instalación, revisar el "Manual de Instalación Xtractor" que se encuentra dentro de la carpeta Xtractor EHM 2014.
 
-*Se deben de actualizar las rutas al ejecutable de Tesseract o incluirlo en el mismo directorio donde se encuentre el archivo .py que se esté utilizando.
 
 **Xtractor EHM 2014**
 
