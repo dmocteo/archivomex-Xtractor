@@ -30,7 +30,14 @@ Para más información sobre la primera instalación, revisar el "Manual de Inst
 
 Esta versión de la herramienta es exclusiva para la extracción de tablas de las Estadísticas Históricas de México de 2014.
 
-Se recomienda comenzar por este Xtractor para tener la instalación adecuada para el uso de las adicionales herramientas disponibles.
+Se recomienda comenzar por este Xtractor para tener la instalación adecuada para el uso de las adicionales herramientas disponibles. Revisar el "Manual de Instalación Xtractor" que se encuentra dentro de la carpeta Xtractor EHM 2014.
+
+Para verificar si la instalación fue satisfactoria y conocer el funcionamiento de la herramienta, se deben de realizar los siguientes pasos:
+
+1. Correr el script de Python *ArchivoMex_Extractor.py*, la siguiente ventana deberá de aparecer en la pantalla:
+
+![image](https://user-images.githubusercontent.com/42630580/151274875-551f7dd3-523f-4687-9468-0cf66c9cba99.png)
+
 
 **Censo Hospitales**
 
