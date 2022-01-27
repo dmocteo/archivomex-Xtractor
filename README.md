@@ -78,16 +78,22 @@ Para verificar si la instalación fue satisfactoria y conocer el funcionamiento 
 
 ![image](https://user-images.githubusercontent.com/42630580/151277541-1d8c8d58-5e83-4691-b38c-bacb2a649219.png)
 
-4. En la sección derecha de la ventana del Xtractor se debe de cargar la imagen de la tabla de interés. Se deben de indicar que columnas son dobles (aquellas que tienen 2 valores numéricos) y cuales tienen únicamente texto. Seleccionar la casilla de *Extracción 2* para mejores resultados. 
+4. En la sección derecha de la ventana del Xtractor se debe de cargar la imagen de la tabla de interés. Se deben de indicar que columnas son dobles (aquellas que tienen 2 valores numéricos) y cuales tienen únicamente texto. Seleccionar la casilla de *Extracción 2* para mejores resultados. Para este ejemplo se seleccionó la tabla "0__hospital".
 
 **Ejemplo de columnas**
 
 ![image](https://user-images.githubusercontent.com/42630580/151278183-4b7dd5d2-5355-44b6-9372-b84658e8367a.png)
 
+![image](https://user-images.githubusercontent.com/42630580/151278383-45d91f54-84c5-407e-b425-bd7885668651.png)
 
-![image](https://user-images.githubusercontent.com/42630580/151277924-060210bf-6dea-4d61-9d70-48231c48b275.png)
+5. Dar click en procesar. Esperar a que el mensaje de completado aparezca. El archivo generado se encuentra en la misma ubicación en la que se encuentra el script de Python.
 
-5. Dar click en procesar. El archivo generado se encuentra en la misma ubicación en la que se encuentra el script de Python.
+![image](https://user-images.githubusercontent.com/42630580/151279056-e439b823-be5f-43ef-a26b-1074af0c4d2b.png)
+
+**Resultado**
+
+![image](https://user-images.githubusercontent.com/42630580/151279233-5d869828-b398-46cb-926d-7fa9e5b10e81.png)
+
 
 **Xtractor EHM 1970**
 
