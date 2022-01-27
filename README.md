@@ -152,20 +152,20 @@ El funcionamiento es el siguiente:
 
 2. Seleccionar el anuario estadístico, indicar el número de la página a procesar y dar click en procesar. En este primer paso se desplegará una imagen con las filas encontradas. Si las filas indicadas no aparecen se debe de decrementar el valor de sensibilidad, en caso contrario, si aparecen filas que no corresponden y obstruyen las indicadas, se decrementa el valor.
 
-Para este ejemplo se utilizó el archivo "702825140564_1.pdf" con la página 21.
+Para este ejemplo se utilizó el archivo "702825140564_1.pdf" con la página 28.
 
-![image](https://user-images.githubusercontent.com/42630580/151281849-62bf62fa-afad-41a5-b70b-deb29b5e40b0.png)
+![image](https://user-images.githubusercontent.com/42630580/151282966-e8367f2d-0535-414e-b7a5-fc5a3c26fa6e.png)
 
 ![image](https://user-images.githubusercontent.com/42630580/151281948-1b21cede-a0c1-43b6-8289-0e0536f81682.png)
 
 3. Cerrar la imagen y el mensaje de completado. Del lado derecho del Xtractor especificar el índice donde comienzan los datos de la tabla y el índice donde termina, y dar click en procesar.
 
-![image](https://user-images.githubusercontent.com/42630580/151282171-38f9786a-cc2b-42e8-a17f-6a81163dbd2f.png)
+![image](https://user-images.githubusercontent.com/42630580/151282805-b73424c4-826b-4ee2-bfc2-4978575da721.png)
 
-![image](https://user-images.githubusercontent.com/42630580/151282244-d357c97d-a710-455d-9a00-2dcc96998c88.png)
+![image](https://user-images.githubusercontent.com/42630580/151282839-ddb413b9-6147-4651-a996-8fc203462ee1.png)
 
 4. Esperar a que el mensaje de completado aparezca en pantalla. El archivo generado se encontrará en la misma carpeta donde se encuentre el script.
 
-![image](https://user-images.githubusercontent.com/42630580/151282321-bb1a773e-eb7d-4da8-b75f-7326b5c7b422.png)
+![image](https://user-images.githubusercontent.com/42630580/151283087-422a40af-471a-4d52-804c-5e85a1433c42.png)
 
 *Esta versión se encuentra en fase de experimentación. Aún se necesita refinar el procesamiento de la imagen y segmentación.*
