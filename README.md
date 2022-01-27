@@ -117,8 +117,23 @@ Para poder crear la red neuronal convolucional es necesario tener un dataset con
 
 3. Finalizado el proceso se van a generar imagenes de los caracteres dentro de la imagen procesada.
 
+**Imagen Original con escala**
 ![image](https://user-images.githubusercontent.com/42630580/151280284-1132d75e-0690-47cf-98a6-1f8b7734d92d.png)
 
+**Columna segmentada manualmente**
 ![image](https://user-images.githubusercontent.com/42630580/151280324-761a3d6e-4b09-47e3-a89e-b147577a1ec9.png)
 
+**Imágenes generadas**
 ![image](https://user-images.githubusercontent.com/42630580/151280445-b7d79320-2f8c-417d-acc0-8e668e139080.png)
+
+4. Se debe de hacer el etiquetado manualmente.
+
+**Entrenamiento**
+
+Antes de comenzar con el entrenamiento es necesario instalar "tensorflow". https://www.tensorflow.org/install/pip?hl=es-419
+
+Para el entrenamiento es necesario organizar las imagenes del dataset. Para esto se utiliza la función "Normalizar" del script *Entrenamiento.py*. Esta función se encarga de escalar las imágenes de imágenes de 15x30 pixeles.
+
+Posteriormente se debe de utilizar la función "CNN" para crear la red neuronal.
+
+Es importante actualizar las rutas que se utilizan.
