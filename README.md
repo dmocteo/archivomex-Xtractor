@@ -74,6 +74,20 @@ Para verificar si la instalación fue satisfactoria y conocer el funcionamiento 
 
 ![image](https://user-images.githubusercontent.com/42630580/151277297-804a27e1-d611-4500-881c-4f6ac483ae0a.png)
 
+**Resultado**
+
+![image](https://user-images.githubusercontent.com/42630580/151277541-1d8c8d58-5e83-4691-b38c-bacb2a649219.png)
+
+4. En la sección derecha de la ventana del Xtractor se debe de cargar la imagen de la tabla de interés. Se deben de indicar que columnas son dobles (aquellas que tienen 2 valores numéricos) y cuales tienen únicamente texto. Seleccionar la casilla de *Extracción 2* para mejores resultados. 
+
+**Ejemplo de columnas**
+
+![image](https://user-images.githubusercontent.com/42630580/151278183-4b7dd5d2-5355-44b6-9372-b84658e8367a.png)
+
+
+![image](https://user-images.githubusercontent.com/42630580/151277924-060210bf-6dea-4d61-9d70-48231c48b275.png)
+
+5. Dar click en procesar. El archivo generado se encuentra en la misma ubicación en la que se encuentra el script de Python.
 
 **Xtractor EHM 1970**
 
