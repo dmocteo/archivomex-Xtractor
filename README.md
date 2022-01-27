@@ -38,6 +38,10 @@ Para verificar si la instalación fue satisfactoria y conocer el funcionamiento 
 
 ![image](https://user-images.githubusercontent.com/42630580/151274875-551f7dd3-523f-4687-9468-0cf66c9cba99.png)
 
+2. Seleccionar de la carpeta EHM2014 el anuario estadístico de su interés y la página donde se encuentra la tabla que desea extraer. Indicar el índice de la tabla dentro de la página seleccionada, se debe de contar de arriba para abajo comenzando con el índice 1. En caso de que la extracción sea errónea y presente texto o números que no corresponden a los de la tabla, incremente el valor del zoom en 1 y ajuste los demás parámetros de acuerdo a la fórmula. Para este ejemplo se seleccionó el anuario estadístico número 18 (Precios), con la página 130 y la tabla número 2.
+
+3. Una vez se llenan los campos, se da click en el botón de procesar. Una vez que el procesamiento termine deberá de aparecer un mensaje indicando el fin del proceso. El archivo de Excel se encontrará en la misma ubicación del script de Python.
+
 
 **Censo Hospitales**
 
