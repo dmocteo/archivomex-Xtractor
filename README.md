@@ -40,8 +40,17 @@ Para verificar si la instalación fue satisfactoria y conocer el funcionamiento 
 
 2. Seleccionar de la carpeta EHM2014 el anuario estadístico de su interés y la página donde se encuentra la tabla que desea extraer. Indicar el índice de la tabla dentro de la página seleccionada, se debe de contar de arriba para abajo comenzando con el índice 1. En caso de que la extracción sea errónea y presente texto o números que no corresponden a los de la tabla, incremente el valor del zoom en 1 y ajuste los demás parámetros de acuerdo a la fórmula. Para este ejemplo se seleccionó el anuario estadístico número 18 (Precios), con la página 130 y la tabla número 2.
 
+![image](https://user-images.githubusercontent.com/42630580/151275603-2d110560-d2d6-4175-9fb9-a0aefa1531bf.png)
+
 3. Una vez se llenan los campos, se da click en el botón de procesar. Una vez que el procesamiento termine deberá de aparecer un mensaje indicando el fin del proceso. El archivo de Excel se encontrará en la misma ubicación del script de Python.
 
+![image](https://user-images.githubusercontent.com/42630580/151275836-92c0b81c-c29c-459c-bf0b-a4646cbd3f1d.png)
+
+**Resultado**
+
+![image](https://user-images.githubusercontent.com/42630580/151276009-df82d3e4-93fd-4fe4-8b70-fb4dc273f985.png)
+
+*Es importante destacar que el Xtractor está limitado a extraer únicamente el contenido de la tabla, el título y los encabezados se ignoran.
 
 **Censo Hospitales**
 
