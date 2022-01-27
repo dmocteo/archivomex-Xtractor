@@ -106,3 +106,19 @@ Para el uso de esta herramienta es necesario entrenar un modelo de clasificació
 Una vez que se genera el modelo de clasificación, es posible utilizar el *Xtracor CNN.py* para la extracción de tablas.
 
 *Es necesario actualizar las rutas de acceso a archivos. Las rutas que se encuentran definidas quedan como ejemplo para obtener un correcto funcionamiento de la herramienta.
+
+**Dataset**
+
+Para poder crear la red neuronal convolucional es necesario tener un dataset con imágenes del 0-9. Para esto, se incluye en el repositorio el dataset utilizado para entrenar el modelo. Sin embargo, a continuación se explica el procedimiento para crear un dataset propio.
+
+1. El script SegmentarCaracteres.py se compone de 2 funciones. "escalar" funciona para crear una imagen en alta resolución de una página del anuario estadístico de 1970 que se desee. 
+
+2. Posteriormente se debe de segmentar manualmente una columna de la imagen generada o procesar toda la imagen con la función "dividir". 
+
+3. Finalizado el proceso se van a generar imagenes de los caracteres dentro de la imagen procesada.
+
+![image](https://user-images.githubusercontent.com/42630580/151280284-1132d75e-0690-47cf-98a6-1f8b7734d92d.png)
+
+![image](https://user-images.githubusercontent.com/42630580/151280324-761a3d6e-4b09-47e3-a89e-b147577a1ec9.png)
+
+![image](https://user-images.githubusercontent.com/42630580/151280445-b7d79320-2f8c-417d-acc0-8e668e139080.png)
