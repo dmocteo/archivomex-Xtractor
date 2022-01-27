@@ -58,6 +58,23 @@ Esta versión de la herramienta es exclusiva para la extracción de tablas del C
 
 En el siguiente enlace se encuentra el Censo y Planificación de hospitales de 1959: https://drive.google.com/file/d/15EFbzDvc8BgYMi1zHzNbatozrkC_sAYT/view?usp=sharing
 
+Los prerrequisitos para el uso de esta herramienta son los mismos que se utilizan en el Xtractor EHM 2014.
+
+Para verificar si la instalación fue satisfactoria y conocer el funcionamiento de la herramienta, se deben de realizar los siguientes pasos:
+
+1. Correr el script de Python *CensoHospitalesExtrator_GUI.py*, la siguiente ventana deberá de aparecer en la pantalla:
+
+![image](https://user-images.githubusercontent.com/42630580/151276748-b0db9485-78cd-489f-be4c-4b4fbeb5140a.png)
+
+2. Seleccionar el PDF del censo y planificación de hospitales, el número de página del PDF y el número de página del censo (1 o 2). Dejar el campo de rotar en "0" y dar click en Procesar. Para este ejemplo se seleccionó la página 16 del PDF y la página 2 del Censo.
+
+![image](https://user-images.githubusercontent.com/42630580/151277377-455614ff-7c4d-4a0a-9f17-060e62e1c372.png)
+
+3. Se van a generar imagenes de cada tabla segmentada y puede que en algunos casos una imagen de *ruido*. Deberá de aparecer el mensaje de completado.
+
+![image](https://user-images.githubusercontent.com/42630580/151277297-804a27e1-d611-4500-881c-4f6ac483ae0a.png)
+
+
 **Xtractor EHM 1970**
 
 Está versión de la herramienta es exclusiva para la extracción de tablas de las Estadísticas Históricas de México de 1970.
